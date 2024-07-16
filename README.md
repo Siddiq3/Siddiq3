@@ -26,16 +26,16 @@ Welcome to my GitHub profile! I'm a motivated and versatile individual with a pa
 
 ### Frontend
 
-- ![React](https://raw.githubusercontent.com/github/explore/main/topics/react/react.png) React Js
-- ![Redux](https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png) Redux
-- ![HTML](https://raw.githubusercontent.com/github/explore/main/topics/html/html.png) HTML
-- ![CSS](https://raw.githubusercontent.com/github/explore/main/topics/css/css.png) CSS
-- ![JavaScript](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png) JavaScript
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Backend
 
-- ![Node](https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png) Node Js
-- ![Express](https://raw.githubusercontent.com/github/explore/main/topics/express/express.png) Express Js
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ## 📈 GitHub Stats
 
