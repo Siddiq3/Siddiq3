@@ -26,20 +26,16 @@ Welcome to my GitHub profile! I'm a motivated and versatile individual with a pa
 
 ### Frontend
 
-| Skill       | Icon                                                                                         |
-|-------------|----------------------------------------------------------------------------------------------|
-| React Js    | ![React](https://raw.githubusercontent.com/github/explore/main/topics/react/react.png)       |
-| Redux       | ![Redux](https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png)       |
-| HTML        | ![HTML](https://raw.githubusercontent.com/github/explore/main/topics/html/html.png)          |
-| CSS         | ![CSS](https://raw.githubusercontent.com/github/explore/main/topics/css/css.png)             |
-| JavaScript  | ![JavaScript](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png) |
+- ![React](https://raw.githubusercontent.com/github/explore/main/topics/react/react.png) React Js
+- ![Redux](https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png) Redux
+- ![HTML](https://raw.githubusercontent.com/github/explore/main/topics/html/html.png) HTML
+- ![CSS](https://raw.githubusercontent.com/github/explore/main/topics/css/css.png) CSS
+- ![JavaScript](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png) JavaScript
 
 ### Backend
 
-| Skill       | Icon                                                                                         |
-|-------------|----------------------------------------------------------------------------------------------|
-| Node Js     | ![Node](https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png)       |
-| Express Js  | ![Express](https://raw.githubusercontent.com/github/explore/main/topics/express/express.png) |
+- ![Node](https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png) Node Js
+- ![Express](https://raw.githubusercontent.com/github/explore/main/topics/express/express.png) Express Js
 
 ## 📈 GitHub Stats
 
