@@ -1,47 +1,58 @@
-# Hi there, I'm Siddiq Kolimi 👋
+# Hi, I'm Siddiq Kolimi 👋
 
+Welcome to my GitHub profile! I'm a motivated and versatile individual with a passion for learning and a dedication to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.
 
+## 🚀 About Me
 
-## About Me
+- 🌟 **Roles:**
+  - Freelancer
+  - Full Stack Developer
+  - App Developer
+  - Frontend Developer
+  - Programmer
 
-- 🔭 I’m currently working on various web development projects
-- 🌱 I’m currently learning advanced frontend and backend technologies
-- 👯 I’m looking to collaborate on innovative web development projects
-- 💬 Ask me about web development, JavaScript, and React
-- 📫 How to reach me: [siddiqkolimi.dev@gmail.com](mailto:siddiqkolimi.dev@gmail.com)
-- ⚡ Fun fact: I love to solve complex problems and build efficient solutions
+- 💼 **Portfolio:** [siddiqkolimi.vercel.app](https://siddiqkolimi.vercel.app/)
+- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1PXEsdm0r6fIRyUynaCLEV2Oeg1lFVGmn/view?usp=sharing)
 
-## Skills
+## 🌐 Socials
 
-- **Languages:**
-  - ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-  - ![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
-  - ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Siddiq3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/siddiq-kolimi-a371a9192)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/siddiqkolimi)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/siddiqkolimi/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/siddiqkolimi/)
 
-- **Frameworks & Libraries:**
-  - ![React](https://img.shields.io/badge/-React-000?&logo=React)
-  - ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
- 
-  - ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
-  - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=tailwind-css)
+## 🛠️ Skills
 
-- **Databases:**
-  - ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-  - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+### Frontend
 
-- **Tools:**
-  - ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-  - ![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-  - ![VS Code](https://img.shields.io/badge/-VS_Code-000?&logo=visual-studio-code)
+| Skill       | Icon                                                                                         |
+|-------------|----------------------------------------------------------------------------------------------|
+| React Js    | ![React](https://raw.githubusercontent.com/github/explore/main/topics/react/react.png)       |
+| Redux       | ![Redux](https://raw.githubusercontent.com/github/explore/main/topics/redux/redux.png)       |
+| HTML        | ![HTML](https://raw.githubusercontent.com/github/explore/main/topics/html/html.png)          |
+| CSS         | ![CSS](https://raw.githubusercontent.com/github/explore/main/topics/css/css.png)             |
+| JavaScript  | ![JavaScript](https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png) |
 
-## Projects
+### Backend
 
-- [Personal Portfolio](https://siddiqkolimi.vercel.app/) - My personal portfolio website showcasing my skills, projects, and contact information.
-- [Project 2](#) - Description of the second project.
-- [Project 3](#) - Description of the third project.
+| Skill       | Icon                                                                                         |
+|-------------|----------------------------------------------------------------------------------------------|
+| Node Js     | ![Node](https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png)       |
+| Express Js  | ![Express](https://raw.githubusercontent.com/github/explore/main/topics/express/express.png) |
 
-## Connect with Me
+## 📈 GitHub Stats
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/siddiq-kolimi/)
+[![Siddiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddiq3&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub&logoColor=white)](https://github.com/siddiqkolimi)
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Siddiq3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📊 Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddiq3&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+Feel free to explore my repositories and projects. Let's connect and collaborate on exciting projects!
