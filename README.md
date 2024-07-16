@@ -1,6 +1,6 @@
 # Hi there, I'm Siddiq Kolimi 👋
 
-![Profile views](https://gpvc.arturio.dev/siddiqkolimi)
+
 
 ## About Me
 
@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning advanced frontend and backend technologies
 - 👯 I’m looking to collaborate on innovative web development projects
 - 💬 Ask me about web development, JavaScript, and React
-- 📫 How to reach me: [siddiqkolimi@gmail.com](mailto:siddiqkolimi@gmail.com)
+- 📫 How to reach me: [siddiqkolimi.dev@gmail.com](mailto:siddiqkolimi.dev@gmail.com)
 - ⚡ Fun fact: I love to solve complex problems and build efficient solutions
 
 ## Skills
@@ -21,7 +21,7 @@
 - **Frameworks & Libraries:**
   - ![React](https://img.shields.io/badge/-React-000?&logo=React)
   - ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
-  - ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+ 
   - ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
   - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-000?&logo=tailwind-css)
 
