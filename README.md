@@ -39,15 +39,15 @@ Welcome to my GitHub profile! I'm a motivated and versatile individual with a pa
 
 ## 📈 GitHub Stats
 
-[![Siddiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddiq3&show_icons=true&theme=radical)]
+![Siddiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Siddiq3&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Siddiq3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=Siddiq3&theme=onedark)
 
 ## 📊 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddiq3&layout=compact&theme=radical)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Siddiq3&layout=compact&theme=radical)
 
 ---
 
